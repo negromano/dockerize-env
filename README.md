@@ -1,2 +1,2 @@
 # dockerize-env
-My personal msot used dependencies for docker (many modified from existent ones)
+My personal most used dependencies for docker (many modified from existent ones)
