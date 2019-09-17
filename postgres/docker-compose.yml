@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  db:
+   container_name: postgres-rappi
+   build: .
+   ports:
+    - "7001:5432"
