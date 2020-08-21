@@ -5,3 +5,5 @@ services:
    build: .
    ports:
     - "7001:5432"
+   environment:
+    POSTGRES_HOST_AUTH_METHOD: trust
